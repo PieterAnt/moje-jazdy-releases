@@ -5,7 +5,7 @@ Slovenská aplikácia pre Android na meranie rýchlosti, zaznamenávanie trás a
 ## Čo aplikácia ponúka
 
 - **Tachometer.** Po povolení presnej polohy vidíš rýchlosť, nadmorskú výšku a stav GPS aj pred spustením záznamu. V Nastaveniach si vyber medzi analógovou stupnicou a digitálnym zobrazením s väčšími číslicami. Otvorený tachometer drží displej zapnutý aj pred spustením záznamu.
-- **Záznam jazdy.** Spustíš ho tlačidlom alebo automaticky pri prekročení nastavenej rýchlosti. Počas jazdy vidíš čas, vzdialenosť a priemernú aj maximálnu rýchlosť. Rozbehnutý záznam pokračuje pri zamknutom displeji. Záznam môžeš pozastaviť a znovu spustiť na tachometri alebo v oznámení. Čas jazdy počas pauzy ďalej beží.
+- **Záznam jazdy.** Spustíš ho tlačidlom alebo automaticky pri prekročení nastavenej rýchlosti. Počas jazdy vidíš čas, vzdialenosť a priemernú aj maximálnu rýchlosť. Rozbehnutý záznam pokračuje pri zamknutom displeji. Záznam môžeš pozastaviť a znovu spustiť na tachometri alebo v oznámení. Ručná pauza zastaví aj čas jazdy. Pri bežnom státí s aktívnym záznamom čas beží ďalej.
 - **Mini tachometer.** Po odchode na plochu počas záznamu vidíš v plávajúcom okne rýchlosť a čas jazdy. V Nastaveniach si môžeš pod rýchlosťou zvoliť nadmorskú výšku, vzdialenosť, priemer alebo maximum.
 - **Oznámenie o jazde.** Po povolení oznámení vidíš v systémovej lište aktuálnu rýchlosť, prejdenú vzdialenosť a čas jazdy. Jazdu môžeš ukončiť priamo z oznámenia.
 - **História a prehrávanie.** Jazdy si pozrieš na 2D mape alebo v 3D teréne s vlajočkou a označenými zastávkami. Pri prehrávaní môžeš použiť celú obrazovku. Na vyskúšanie je v histórii ukážková jazda cez Donovaly.
