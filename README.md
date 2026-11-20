@@ -10,7 +10,7 @@ Slovenská aplikácia pre Android na meranie rýchlosti, zaznamenávanie trás a
 - **Oznámenie o jazde.** Po povolení oznámení vidíš v systémovej lište aktuálnu rýchlosť, prejdenú vzdialenosť a čas jazdy. Jazdu môžeš ukončiť priamo z oznámenia.
 - **História a prehrávanie.** Jazdy si pozrieš na 2D mape alebo v 3D teréne s vlajočkou a označenými zastávkami. Pri prehrávaní môžeš použiť celú obrazovku. Na vyskúšanie je v histórii ukážková jazda cez Donovaly.
 - **Mazanie jázd.** V Histórii podrž položku a vyber zmazanie alebo označenie viacerých jázd. Jednu jazdu môžeš zmazať aj z detailu. Zmazanie sa synchronizuje na zariadenia s rovnakým účtom a aktuálnou verziou aplikácie.
-- **Plánovač.** Zadaj štart, cieľ, čas odchodu a plánované zastávky. Aplikácia odhadne vzdialenosť, trvanie jazdy aj príchod.
+- **Plánovač.** Štart, cieľ a zastávky vyberieš z návrhov pri písaní, priamo na mape alebo zadaním súradníc. Po zadaní odchodu a trvania zastávok aplikácia odhadne vzdialenosť, čas jazdy a príchod. Návrhy adries poskytuje Photon a výpočet trasy OSRM.
 - **Synchronizácia cez Google Drive.** Po pripojení rovnakého Google účtu môžeš obnoviť uložené jazdy na ďalšom zariadení. Zálohy sú v skrytom priestore aplikácie `appDataFolder`.
 
 ## Inštalácia
