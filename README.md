@@ -4,13 +4,13 @@ Slovenská aplikácia pre Android na meranie rýchlosti, zaznamenávanie trás a
 
 ## Čo aplikácia ponúka
 
-- **Tachometer.** Po povolení presnej polohy vidíš rýchlosť, nadmorskú výšku a stav GPS aj pred spustením záznamu. V Nastaveniach si vyber medzi analógovou stupnicou a digitálnym zobrazením s väčšími číslicami.
+- **Tachometer.** Po povolení presnej polohy vidíš rýchlosť, nadmorskú výšku a stav GPS aj pred spustením záznamu. V Nastaveniach si vyber medzi analógovou stupnicou a digitálnym zobrazením s väčšími číslicami. Otvorený tachometer drží displej zapnutý aj pred spustením záznamu.
 - **Záznam jazdy.** Spustíš ho tlačidlom alebo automaticky pri prekročení nastavenej rýchlosti. Počas jazdy vidíš čas, vzdialenosť a priemernú aj maximálnu rýchlosť. Rozbehnutý záznam pokračuje pri zamknutom displeji.
 - **Mini tachometer.** Po odchode na plochu počas záznamu vidíš v plávajúcom okne rýchlosť a čas jazdy. V Nastaveniach si môžeš pod rýchlosťou zvoliť nadmorskú výšku, vzdialenosť, priemer alebo maximum.
 - **Oznámenie o jazde.** Po povolení oznámení vidíš v systémovej lište aktuálnu rýchlosť, prejdenú vzdialenosť a čas jazdy. Jazdu môžeš ukončiť priamo z oznámenia.
 - **História a prehrávanie.** Jazdy si pozrieš na 2D mape alebo v 3D teréne s vlajočkou a označenými zastávkami. Pri prehrávaní môžeš použiť celú obrazovku. Na vyskúšanie je v histórii ukážková jazda cez Donovaly.
 - **Mazanie jázd.** V Histórii podrž položku a vyber zmazanie alebo označenie viacerých jázd. Jednu jazdu môžeš zmazať aj z detailu. Zmazanie sa synchronizuje na zariadenia s rovnakým účtom a aktuálnou verziou aplikácie.
-- **Plánovač.** Štart, cieľ a zastávky vyberieš z návrhov pri písaní, priamo na mape alebo zadaním súradníc. Zapni možnosť **Vyhnúť sa diaľniciam** alebo nastav maximálnu rýchlosť vozidla v **Nastaveniach → Plánovanie trás**. Aplikácia vypočíta vzdialenosť, čas jazdy a príchod vrátane zastávok. Uložené plány môžeš zmazať po jednom aj hromadne.
+- **Plánovač.** Štart, cieľ a zastávky vyberieš z návrhov pri písaní, priamo na mape alebo zadaním súradníc. Zapni možnosť **Vyhnúť sa diaľniciam** alebo nastav maximálnu rýchlosť vozidla v **Nastaveniach → Plánovanie trás**. Aplikácia vypočíta vzdialenosť, čas jazdy a príchod vrátane zastávok. Maximálna rýchlosť sa použije pri odhade času po vypočítanej trase. Uložené plány môžeš zmazať po jednom aj hromadne.
 - **Synchronizácia cez Google Drive.** Po pripojení rovnakého Google účtu môžeš obnoviť uložené jazdy na ďalšom zariadení. Zálohy sú v skrytom priestore aplikácie `appDataFolder`.
 
 ## Inštalácia
