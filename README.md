@@ -4,11 +4,12 @@ Slovenská aplikácia pre Android na meranie rýchlosti, zaznamenávanie trás a
 
 ## Čo aplikácia ponúka
 
-- **Tachometer.** Po povolení presnej polohy vidíš aktuálnu rýchlosť, nadmorskú výšku a stav GPS aj pred spustením záznamu.
+- **Tachometer.** Po povolení presnej polohy vidíš rýchlosť, nadmorskú výšku a stav GPS aj pred spustením záznamu. V Nastaveniach si vyber medzi analógovou stupnicou a digitálnym zobrazením s väčšími číslicami.
 - **Záznam jazdy.** Spustíš ho tlačidlom alebo automaticky pri prekročení nastavenej rýchlosti. Počas jazdy vidíš čas, vzdialenosť a priemernú aj maximálnu rýchlosť. Rozbehnutý záznam pokračuje pri zamknutom displeji.
-- **Mini tachometer.** Po odchode na plochu počas záznamu vidíš v plávajúcom okne rýchlosť a nadmorskú výšku. Mini tachometer sa dá vypnúť v nastaveniach aplikácie.
+- **Mini tachometer.** Po odchode na plochu počas záznamu vidíš v plávajúcom okne rýchlosť a čas jazdy. V Nastaveniach si môžeš pod rýchlosťou zvoliť nadmorskú výšku, vzdialenosť, priemer alebo maximum.
 - **Oznámenie o jazde.** Po povolení oznámení vidíš v systémovej lište aktuálnu rýchlosť, prejdenú vzdialenosť a čas jazdy. Jazdu môžeš ukončiť priamo z oznámenia.
 - **História a prehrávanie.** Jazdy si pozrieš na 2D mape alebo v 3D teréne s vlajočkou a označenými zastávkami. Pri prehrávaní môžeš použiť celú obrazovku. Na vyskúšanie je v histórii ukážková jazda cez Donovaly.
+- **Mazanie jázd.** V Histórii podrž položku a vyber zmazanie alebo označenie viacerých jázd. Jednu jazdu môžeš zmazať aj z detailu. Zmazanie sa synchronizuje na zariadenia s rovnakým účtom a aktuálnou verziou aplikácie.
 - **Plánovač.** Zadaj štart, cieľ, čas odchodu a plánované zastávky. Aplikácia odhadne vzdialenosť, trvanie jazdy aj príchod.
 - **Synchronizácia cez Google Drive.** Po pripojení rovnakého Google účtu môžeš obnoviť uložené jazdy na ďalšom zariadení. Zálohy sú v skrytom priestore aplikácie `appDataFolder`.
 
@@ -18,7 +19,7 @@ Stiahni si súbor `Moje-jazdy-*.apk` z najnovšieho vydania, otvor ho v Androide
 
 ## Aktualizácie
 
-V aplikácii otvor **Nastavenia → Aktualizácie → Zdroj aktualizácií** a ulož túto adresu.
+GitHub je predvolený zdroj aktualizácií. V **Nastaveniach → Aktualizácie → Zdroj aktualizácií** môžeš použiť vlastný odkaz alebo tlačidlo **Použiť GitHub**. Verziu a poznámky k vydaniam nájdeš v sekcii **O aplikácii**.
 
 ```text
 https://github.com/PieterAnt/moje-jazdy-releases/releases/latest/download/release.json
